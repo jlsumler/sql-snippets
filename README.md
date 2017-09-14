@@ -1,0 +1,2 @@
+
+Useful little SQL snippets.
